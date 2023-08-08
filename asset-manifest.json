@@ -1,0 +1,38 @@
+{
+  "files": {
+    "main.css": "/Yosiak-alv.github.io/web_portfolio/static/css/main.dab9fbec.css",
+    "main.js": "/Yosiak-alv.github.io/web_portfolio/static/js/main.7385652b.js",
+    "static/js/787.1ed0c42c.chunk.js": "/Yosiak-alv.github.io/web_portfolio/static/js/787.1ed0c42c.chunk.js",
+    "static/media/CentraNo2-Bold.ttf": "/Yosiak-alv.github.io/web_portfolio/static/media/CentraNo2-Bold.2faff7f7d3fc92a2fcd9.ttf",
+    "static/media/CentraNo2-Medium.ttf": "/Yosiak-alv.github.io/web_portfolio/static/media/CentraNo2-Medium.f94be5b326d78bb32b95.ttf",
+    "static/media/CentraNo2-Book.ttf": "/Yosiak-alv.github.io/web_portfolio/static/media/CentraNo2-Book.2b143fa4b734a3584043.ttf",
+    "static/media/Universidad_don_bosco.jpg": "/Yosiak-alv.github.io/web_portfolio/static/media/Universidad_don_bosco.4324c05acf140c836428.jpg",
+    "static/media/banner-option5.gif": "/Yosiak-alv.github.io/web_portfolio/static/media/banner-option5.f4e907e48329bd47ca8d.gif",
+    "static/media/courseraLogo.png": "/Yosiak-alv.github.io/web_portfolio/static/media/courseraLogo.431ae41c410504a56b7e.png",
+    "static/media/revicons.eot": "/Yosiak-alv.github.io/web_portfolio/static/media/revicons.a77de540a38981833f9e.eot",
+    "static/media/revicons.ttf": "/Yosiak-alv.github.io/web_portfolio/static/media/revicons.57fd05d4ae650374c8de.ttf",
+    "static/media/revicons.woff": "/Yosiak-alv.github.io/web_portfolio/static/media/revicons.e8746a624ed098489406.woff",
+    "static/media/sql.svg": "/Yosiak-alv.github.io/web_portfolio/static/media/sql.60c15b69168ff40b80417b6dcecdfc82.svg",
+    "static/media/webdev.svg": "/Yosiak-alv.github.io/web_portfolio/static/media/webdev.ecc1005fc9911fc2fdb3d8f630b429a2.svg",
+    "static/media/java.svg": "/Yosiak-alv.github.io/web_portfolio/static/media/java.23e3080a3d198076703b49616cfdbe3c.svg",
+    "static/media/laravel.svg": "/Yosiak-alv.github.io/web_portfolio/static/media/laravel.86abff175f25c1f84a7cc4661951b0ef.svg",
+    "static/media/python.svg": "/Yosiak-alv.github.io/web_portfolio/static/media/python.66db6c944ad6729d9dac1942d572032e.svg",
+    "static/media/insta.svg": "/Yosiak-alv.github.io/web_portfolio/static/media/insta.e61f7e2ee4c23fbc697d7f726dc79f08.svg",
+    "static/media/github.svg": "/Yosiak-alv.github.io/web_portfolio/static/media/github.25139d312138609ece63ba624e2d8fc9.svg",
+    "index.html": "/Yosiak-alv.github.io/web_portfolio/index.html",
+    "static/media/php.svg": "/Yosiak-alv.github.io/web_portfolio/static/media/php.092d0a6d59dcb06f1bf9b4a2d576cb58.svg",
+    "static/media/univertsity.svg": "/Yosiak-alv.github.io/web_portfolio/static/media/univertsity.e32754c9d44770bc93a739f56adc520b.svg",
+    "static/media/inertia.svg": "/Yosiak-alv.github.io/web_portfolio/static/media/inertia.8928c34d4280d8812a33c45fe603e071.svg",
+    "static/media/django.svg": "/Yosiak-alv.github.io/web_portfolio/static/media/django.d4129c72efa9682029d7577a44565ea7.svg",
+    "static/media/linkedin.svg": "/Yosiak-alv.github.io/web_portfolio/static/media/linkedin.624495388c0e07e0528bba97b78135de.svg",
+    "static/media/csharp.svg": "/Yosiak-alv.github.io/web_portfolio/static/media/csharp.99ab555f49d366f3dc635be6ed3b7bd3.svg",
+    "static/media/vue.svg": "/Yosiak-alv.github.io/web_portfolio/static/media/vue.1452d7b47bac9e1b91c9748d310344d8.svg",
+    "main.dab9fbec.css.map": "/Yosiak-alv.github.io/web_portfolio/static/css/main.dab9fbec.css.map",
+    "main.7385652b.js.map": "/Yosiak-alv.github.io/web_portfolio/static/js/main.7385652b.js.map",
+    "787.1ed0c42c.chunk.js.map": "/Yosiak-alv.github.io/web_portfolio/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dab9fbec.css",
+    "static/js/main.7385652b.js"
+  ]
+}
