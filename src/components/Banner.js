@@ -15,7 +15,7 @@ export const Banner = () => {
     const [isDeleting, setIsDeleting] = useState(false);
     const [text, setText] = useState('');
     const [delta, setDelta] = useState(300 - Math.random() * 100);
-    const toRotate = [ "Web Developer", "Backend and Front End Developer" ];
+    const toRotate = [ "Web Developer", "On track to becoming a Full-Stack Developer" ];
     const period = 2000;
 
     useEffect(() => {
@@ -57,7 +57,7 @@ export const Banner = () => {
                             {({isVisible}) =>
                                 <div className={isVisible ? "animate__animated animate__fadeIn" : ""}>
                                     <span className="tagline">Hi I'm Josias </span>
-                                    <h1>{`I'm a `} <span className="wrap">{text}</span></h1>
+                                    <h1><span className="wrap">{text}</span></h1>
                                     <p>  
                                         Computer enthusiast,technology and programming with the main objective of starting my career as a 
                                         Backend Developer, with the desire to apply my acquired knowledge and, over time, 

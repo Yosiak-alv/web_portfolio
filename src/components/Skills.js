@@ -8,7 +8,7 @@ import inertiaIcon from '../assets/img/inertia.svg';
 import vuejsIcon from '../assets/img/vue.svg';
 import javaIcon from '../assets/img/java.svg';
 import csharpIcon from '../assets/img/csharp.svg';
-import djangoIcon from '../assets/img/django.svg';
+/* import djangoIcon from '../assets/img/django.svg'; */
 import pythonIcon from '../assets/img/python.svg';
 import webDevIcon from '../assets/img/webdev.svg';
 import sqlIcon from '../assets/img/sql.svg';
@@ -72,10 +72,6 @@ export const Skills = () => {
                                 <div className="item">
                                     <img src={javaIcon} alt="Image6" />
                                     <h5>Java</h5>
-                                </div>
-                                <div className="item">
-                                    <img src={djangoIcon} alt="Image7" />
-                                    <h5>Django</h5>
                                 </div>
                                 <div className="item">
                                     <img src={pythonIcon} alt="Image8" />
