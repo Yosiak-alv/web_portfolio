@@ -91,7 +91,7 @@ export const Education = () => {
                                    
                                     <div className="link">
                                         <div className="text-center">
-                                            <a  href="https://drive.google.com/file/d/1JcUjhAjmeigBP04rnvxgz_OIyQfpRmpA/view?usp=sharing" target='_blank' rel='noopener noreferrer'><span>View Full Résumé <ArrowRightCircleFill size={25} /></span></a>
+                                            <a  href="https://drive.google.com/file/d/1hLpJk6O0kF_ysMUc2mk5sVHPFbersR0c/view?usp=sharing" target='_blank' rel='noopener noreferrer'><span>View Full Résumé <ArrowRightCircleFill size={25} /></span></a>
                                         </div>
                                     </div>
                                     
